@@ -68,3 +68,4 @@ elif player2_win:
     print(f"{player_name2} wins")
 else:
     print(f"{YELLOW}it is a tie")
+input("press enter to continue")
